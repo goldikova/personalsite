@@ -6,7 +6,7 @@
         {
             name: "Forever Young",
             description:
-                "Beautifully bred horse, first Japanese to win the Breeders' Cup Classic, globbaly 2nd richest",
+                "Beautifully bred horse, first Japanese to win the Breeders' Cup Classic, globally 2nd richest",
             gender: "Horse",
             sire: "Real Steel (JPN)",
             s: 1,

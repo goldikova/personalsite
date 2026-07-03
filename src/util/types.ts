@@ -1,3 +1,4 @@
+/* @notice `s` is special */
 export type HorseData = {
     name: string;
     description: string;
