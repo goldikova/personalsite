@@ -10,7 +10,7 @@
         },
         {
             title: "Games I play",
-            list: ["Uma Musume"],
+            list: ["Uma Musume", "Don't Starve Together"],
         },
         {
             title: "Artist I like",

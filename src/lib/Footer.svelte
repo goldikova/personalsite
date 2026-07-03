@@ -21,7 +21,7 @@
         </li>
         <li>
             <button onclick={discordUserClipboard} class="text-blue-400 transition-colors duration-200 hover:text-green-200 text-left">
-                ▷ Discord: {discord_user}
+                ▷ Discord Username: {discord_user}
             </button>
         </li>
     </ul>

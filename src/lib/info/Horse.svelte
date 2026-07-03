@@ -6,7 +6,7 @@
         {
             name: "Forever Young",
             description:
-                "The greatest dirt horse Japan has ever seen and the first Japanese to win the Breeders' Cup Classic",
+                "Beautifully bred horse, first Japanese to win the Breeders' Cup Classic, globbaly 2nd richest",
             gender: "Horse",
             sire: "Real Steel (JPN)",
             s: 1,
@@ -26,7 +26,7 @@
         {
             name: "Chrono Genesis",
             description:
-                "The only other horse besides Gold Ship to win the Takarazuka Kinen twice",
+                "Only G1 winner for Bago",
             gender: "Mare",
             sire: "Bago (FR)",
             s: 0,
@@ -44,7 +44,7 @@
         {
             name: "Romantic Warrior",
             description:
-                "The richest horse in history without contest. The third horse to win the Hong Kong triple crown besides River Verdon (1994) and Voyage Bubble (2025)",
+                "The third HK triple crown winner and globally the richest",
             gender: "Gelding",
             sire: "Acclamation (GB)",
             s: 0,
@@ -67,7 +67,7 @@
         {
             name: "White Abarrio",
             description:
-                "The Unc who just NEVER QUIT. THE GOAT. Been racing since 2021 and still had it in him to defeat Sovereignty in the Oaklawn; basically Allen Jerkens",
+                "Raced since 2021",
             gender: "Horse",
             sire: "Race Day (USA)",
             s: 0,
@@ -86,7 +86,7 @@
         {
             name: "Daryz",
             description:
-                "A newer colt from Aga Khan by Sea The Stars. He's on DEMON MODE.",
+                "Hates firm ground",
             gender: "Colt",
             sire: "Sea The Stars (IRE)",
             s: 0,

@@ -2,9 +2,9 @@
 	import Header from "./lib/Header.svelte";
 	import Info from "./lib/Info.svelte";
 	import Footer from "./lib/Footer.svelte";
-	import Projects from "./lib/Projects.svelte";
+	// import Projects from "./lib/Projects.svelte";
 
-	const Components = [Header, Info, Projects, Footer];
+	const Components = [Header, Info, Footer];
 </script>
 
 <div>
